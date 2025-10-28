@@ -146,10 +146,10 @@ graph TB
 
 ## 👥 Team
 
-| Role | Name | GitHub | LinkedIn |
-|------|------|--------|----------|
-| **Lead AI-supported Developer** | Yudai | [@github](https://github.com) 
-| **Product Manager** | Yuki | [@github](https://github.com) 
+| Role | Name | X | 
+|------|------|--------|
+| **Lead AI-supported Developer** | Yudai | [@x](https://x.com/9dai_5) 
+| **Product Manager** | Yuki | [@x](https://x.com/yukichieth) 
 
 ## 🏆 Hackathon Criteria
 
