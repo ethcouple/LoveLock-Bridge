@@ -7,7 +7,7 @@
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
-  **🏆 Hackathon Submission for [Hackathon Name]**
+  **🏆 Hackathon Submission for DCL Regenesis Labs Vibe Coding Hackathon**
   
   [Demo Video](https://youtube.com/XXX) | [Live Demo](https://play.decentraland.org/?position=X,X) | [Presentation](https://slides.com/presentation)
 
